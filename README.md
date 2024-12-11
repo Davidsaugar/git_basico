@@ -6,4 +6,3 @@
 - Inglesh
 - Iniciación a la actividad empresarial
 - Administración de sistemas operativos
-- Salchipapa
