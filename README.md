@@ -5,4 +5,5 @@
 - Seguridad y alta disponibilidad
 - Inglesh
 - Iniciación a la actividad empresarial
-- Administración de sistemas operativos.
+- Administración de sistemas operativos
+- Salchipapa
