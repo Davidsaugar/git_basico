@@ -7,7 +7,5 @@
 - Iniciación a la actividad empresarial
 - Administración de sistemas operativos
 
-- Imagen con enlace a dgtrabada:
-
-  
+## Imagen con enlace a dgtrabada:
 [![Imagen de usuario](https://avatars.githubusercontent.com/u/22892367?v=4?s=400)](https://github.com/dgtrabada)
