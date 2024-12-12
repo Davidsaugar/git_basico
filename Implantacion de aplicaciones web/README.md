@@ -5,3 +5,4 @@
 - Un mac 
 - Raton
 - Teclado
+- Pantalla
