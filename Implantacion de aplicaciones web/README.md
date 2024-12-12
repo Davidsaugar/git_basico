@@ -4,3 +4,4 @@
 # Requisitos:
 - Un mac 
 - Raton
+- Teclado
