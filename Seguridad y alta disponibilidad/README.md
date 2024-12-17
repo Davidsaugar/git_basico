@@ -3,3 +3,4 @@
 - nftables
 - Fail2ban
 - ipset
+- Crowdsec
